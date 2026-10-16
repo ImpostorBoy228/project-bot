@@ -1,0 +1,16 @@
+# Rust / Cargo build output
+target/
+
+# Native build artifacts
+*.o
+*.out
+*.a
+*.so
+
+# Compiled binaries (no extension)
+gas⛽/main
+dZZZVVZVZVZ/23_raznos/4
+
+# Python
+__pycache__/
+*.py[cod]
