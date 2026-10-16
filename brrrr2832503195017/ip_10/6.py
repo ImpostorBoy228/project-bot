@@ -1,8 +1,3 @@
-import ipaddress
-
-ip = '192.168.32.128'
-mask = '255.255.255.192'
-net = ipaddress.ip_network(f'{ip}/{mask}', strict=False)
-
-print(sum(f"{h:b}".count('1') % 2 == 0 for h in net))
-
+ip='218.48.192.56'
+net='218.48.192.0'
+# короче bin(192) будет 0b11000000 6 нулей
