@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="white"/>
+<text x="450.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">dZZZVVZVZVZ: файлы по «разносам»</text>
+<line x1="60" y1="420.0" x2="840" y2="420.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="424.0" text-anchor="end" font-size="11" fill="#555">0</text>
+<line x1="60" y1="348.0" x2="840" y2="348.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="352.0" text-anchor="end" font-size="11" fill="#555">10</text>
+<line x1="60" y1="276.0" x2="840" y2="276.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="280.0" text-anchor="end" font-size="11" fill="#555">20</text>
+<line x1="60" y1="204.0" x2="840" y2="204.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="208.0" text-anchor="end" font-size="11" fill="#555">29</text>
+<line x1="60" y1="132.0" x2="840" y2="132.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="136.0" text-anchor="end" font-size="11" fill="#555">39</text>
+<line x1="60" y1="60.0" x2="840" y2="60.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="64.0" text-anchor="end" font-size="11" fill="#555">49</text>
+<rect x="60.0" y="405.3061224489796" width="50.142857142857146" height="14.693877551020407" fill="#54A24B" rx="3"/>
+<text x="85.07142857142857" y="401.3061224489796" text-anchor="middle" font-size="10" fill="#222">2</text>
+<text x="85.07142857142857" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 85.07142857142857 472)">14_raznos</text>
+<rect x="116.14285714285714" y="390.61224489795916" width="50.142857142857146" height="29.387755102040813" fill="#54A24B" rx="3"/>
+<text x="141.21428571428572" y="386.61224489795916" text-anchor="middle" font-size="10" fill="#222">4</text>
+<text x="141.21428571428572" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 141.21428571428572 472)">15_raznos</text>
+<rect x="172.28571428571428" y="405.3061224489796" width="50.142857142857146" height="14.693877551020407" fill="#54A24B" rx="3"/>
+<text x="197.35714285714286" y="401.3061224489796" text-anchor="middle" font-size="10" fill="#222">2</text>
+<text x="197.35714285714286" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 197.35714285714286 472)">16_raznos</text>
+<rect x="228.42857142857144" y="361.2244897959184" width="50.142857142857146" height="58.77551020408163" fill="#54A24B" rx="3"/>
+<text x="253.50000000000003" y="357.2244897959184" text-anchor="middle" font-size="10" fill="#222">8</text>
+<text x="253.50000000000003" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 253.50000000000003 472)">17_raznos</text>
+<rect x="284.57142857142856" y="412.6530612244898" width="50.142857142857146" height="7.346938775510203" fill="#54A24B" rx="3"/>
+<text x="309.6428571428571" y="408.6530612244898" text-anchor="middle" font-size="10" fill="#222">1</text>
+<text x="309.6428571428571" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 309.6428571428571 472)">18_raznos</text>
+<rect x="340.7142857142857" y="368.57142857142856" width="50.142857142857146" height="51.42857142857142" fill="#54A24B" rx="3"/>
+<text x="365.7857142857143" y="364.57142857142856" text-anchor="middle" font-size="10" fill="#222">7</text>
+<text x="365.7857142857143" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 365.7857142857143 472)">19-21_raznos</text>
+<rect x="396.8571428571429" y="353.8775510204082" width="50.142857142857146" height="66.12244897959184" fill="#54A24B" rx="3"/>
+<text x="421.92857142857144" y="349.8775510204082" text-anchor="middle" font-size="10" fill="#222">9</text>
+<text x="421.92857142857144" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 421.92857142857144 472)">23_raznos</text>
+<rect x="453.0" y="390.61224489795916" width="50.142857142857146" height="29.387755102040813" fill="#54A24B" rx="3"/>
+<text x="478.07142857142856" y="386.61224489795916" text-anchor="middle" font-size="10" fill="#222">4</text>
+<text x="478.07142857142856" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 478.07142857142856 472)">24_raznos</text>
+<rect x="509.14285714285717" y="397.9591836734694" width="50.142857142857146" height="22.04081632653061" fill="#54A24B" rx="3"/>
+<text x="534.2142857142858" y="393.9591836734694" text-anchor="middle" font-size="10" fill="#222">3</text>
+<text x="534.2142857142858" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 534.2142857142858 472)">25_raznos</text>
+<rect x="565.2857142857143" y="405.3061224489796" width="50.142857142857146" height="14.693877551020407" fill="#54A24B" rx="3"/>
+<text x="590.3571428571429" y="401.3061224489796" text-anchor="middle" font-size="10" fill="#222">2</text>
+<text x="590.3571428571429" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 590.3571428571429 472)">26_raznos</text>
+<rect x="621.4285714285714" y="60.0" width="50.142857142857146" height="360.0" fill="#54A24B" rx="3"/>
+<text x="646.5" y="56.0" text-anchor="middle" font-size="10" fill="#222">49</text>
+<text x="646.5" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 646.5 472)">5_raznos</text>
+<rect x="677.5714285714286" y="405.3061224489796" width="50.142857142857146" height="14.693877551020407" fill="#54A24B" rx="3"/>
+<text x="702.6428571428571" y="401.3061224489796" text-anchor="middle" font-size="10" fill="#222">2</text>
+<text x="702.6428571428571" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 702.6428571428571 472)">6_raznos</text>
+<rect x="733.7142857142858" y="405.3061224489796" width="50.142857142857146" height="14.693877551020407" fill="#54A24B" rx="3"/>
+<text x="758.7857142857143" y="401.3061224489796" text-anchor="middle" font-size="10" fill="#222">2</text>
+<text x="758.7857142857143" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 758.7857142857143 472)">8_raznos</text>
+<rect x="789.8571428571429" y="390.61224489795916" width="50.142857142857146" height="29.387755102040813" fill="#54A24B" rx="3"/>
+<text x="814.9285714285714" y="386.61224489795916" text-anchor="middle" font-size="10" fill="#222">4</text>
+<text x="814.9285714285714" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 814.9285714285714 472)">9_raznos</text>
+</svg>

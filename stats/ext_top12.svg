@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="white"/>
+<text x="450.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">Файлы по расширениям (топ-12)</text>
+<line x1="60" y1="420.0" x2="840" y2="420.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="424.0" text-anchor="end" font-size="11" fill="#555">0</text>
+<line x1="60" y1="348.0" x2="840" y2="348.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="352.0" text-anchor="end" font-size="11" fill="#555">20</text>
+<line x1="60" y1="276.0" x2="840" y2="276.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="280.0" text-anchor="end" font-size="11" fill="#555">40</text>
+<line x1="60" y1="204.0" x2="840" y2="204.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="208.0" text-anchor="end" font-size="11" fill="#555">61</text>
+<line x1="60" y1="132.0" x2="840" y2="132.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="136.0" text-anchor="end" font-size="11" fill="#555">81</text>
+<line x1="60" y1="60.0" x2="840" y2="60.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="64.0" text-anchor="end" font-size="11" fill="#555">101</text>
+<rect x="60.0" y="60.0" width="59.5" height="360.0" fill="#4C78A8" rx="3"/>
+<text x="89.75" y="56.0" text-anchor="middle" font-size="10" fill="#222">101</text>
+<text x="89.75" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 89.75 472)">txt</text>
+<rect x="125.5" y="84.95049504950492" width="59.5" height="335.0495049504951" fill="#4C78A8" rx="3"/>
+<text x="155.25" y="80.95049504950492" text-anchor="middle" font-size="10" fill="#222">94</text>
+<text x="155.25" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 155.25 472)">py</text>
+<rect x="191.0" y="170.49504950495052" width="59.5" height="249.50495049504948" fill="#4C78A8" rx="3"/>
+<text x="220.75" y="166.49504950495052" text-anchor="middle" font-size="10" fill="#222">70</text>
+<text x="220.75" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 220.75 472)">ods</text>
+<rect x="256.5" y="362.970297029703" width="59.5" height="57.02970297029703" fill="#4C78A8" rx="3"/>
+<text x="286.25" y="358.970297029703" text-anchor="middle" font-size="10" fill="#222">16</text>
+<text x="286.25" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 286.25 472)">(no ext)</text>
+<rect x="322.0" y="377.2277227722772" width="59.5" height="42.77227722772277" fill="#4C78A8" rx="3"/>
+<text x="351.75" y="373.2277227722772" text-anchor="middle" font-size="10" fill="#222">12</text>
+<text x="351.75" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 351.75 472)">bin</text>
+<rect x="387.5" y="384.35643564356434" width="59.5" height="35.64356435643565" fill="#4C78A8" rx="3"/>
+<text x="417.25" y="380.35643564356434" text-anchor="middle" font-size="10" fill="#222">10</text>
+<text x="417.25" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 417.25 472)">lock</text>
+<rect x="453.0" y="391.48514851485146" width="59.5" height="28.514851485148515" fill="#4C78A8" rx="3"/>
+<text x="482.75" y="387.48514851485146" text-anchor="middle" font-size="10" fill="#222">8</text>
+<text x="482.75" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 482.75 472)">lol</text>
+<rect x="518.5" y="391.48514851485146" width="59.5" height="28.514851485148515" fill="#4C78A8" rx="3"/>
+<text x="548.25" y="387.48514851485146" text-anchor="middle" font-size="10" fill="#222">8</text>
+<text x="548.25" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 548.25 472)">c</text>
+<rect x="584.0" y="395.049504950495" width="59.5" height="24.95049504950495" fill="#4C78A8" rx="3"/>
+<text x="613.75" y="391.049504950495" text-anchor="middle" font-size="10" fill="#222">7</text>
+<text x="613.75" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 613.75 472)">rs</text>
+<rect x="649.5" y="398.61386138613864" width="59.5" height="21.386138613861384" fill="#4C78A8" rx="3"/>
+<text x="679.25" y="394.61386138613864" text-anchor="middle" font-size="10" fill="#222">6</text>
+<text x="679.25" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 679.25 472)">out</text>
+<rect x="715.0" y="398.61386138613864" width="59.5" height="21.386138613861384" fill="#4C78A8" rx="3"/>
+<text x="744.75" y="394.61386138613864" text-anchor="middle" font-size="10" fill="#222">6</text>
+<text x="744.75" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 744.75 472)">toml</text>
+<rect x="780.5" y="405.74257425742576" width="59.5" height="14.257425742574258" fill="#4C78A8" rx="3"/>
+<text x="810.25" y="401.74257425742576" text-anchor="middle" font-size="10" fill="#222">4</text>
+<text x="810.25" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 810.25 472)">gitignore</text>
+</svg>

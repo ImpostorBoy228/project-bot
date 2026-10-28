@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="white"/>
+<text x="450.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">Файлы по верхнеуровневым папкам</text>
+<line x1="60" y1="420.0" x2="840" y2="420.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="424.0" text-anchor="end" font-size="11" fill="#555">0</text>
+<line x1="60" y1="348.0" x2="840" y2="348.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="352.0" text-anchor="end" font-size="11" fill="#555">33</text>
+<line x1="60" y1="276.0" x2="840" y2="276.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="280.0" text-anchor="end" font-size="11" fill="#555">65</text>
+<line x1="60" y1="204.0" x2="840" y2="204.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="208.0" text-anchor="end" font-size="11" fill="#555">98</text>
+<line x1="60" y1="132.0" x2="840" y2="132.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="136.0" text-anchor="end" font-size="11" fill="#555">130</text>
+<line x1="60" y1="60.0" x2="840" y2="60.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="64.0" text-anchor="end" font-size="11" fill="#555">163</text>
+<rect x="60.0" y="60.0" width="43.125" height="360.0" fill="#F58518" rx="3"/>
+<text x="81.5625" y="56.0" text-anchor="middle" font-size="10" fill="#222">163</text>
+<text x="81.5625" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 81.5625 472)">files</text>
+<rect x="109.125" y="201.34969325153372" width="43.125" height="218.65030674846628" fill="#F58518" rx="3"/>
+<text x="130.6875" y="197.34969325153372" text-anchor="middle" font-size="10" fill="#222">99</text>
+<text x="130.6875" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 130.6875 472)">dZZZVVZVZVZ</text>
+<rect x="158.25" y="355.9509202453988" width="43.125" height="64.04907975460122" fill="#F58518" rx="3"/>
+<text x="179.8125" y="351.9509202453988" text-anchor="middle" font-size="10" fill="#222">29</text>
+<text x="179.8125" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 179.8125 472)">+rep</text>
+<rect x="207.375" y="358.159509202454" width="43.125" height="61.84049079754602" fill="#F58518" rx="3"/>
+<text x="228.9375" y="354.159509202454" text-anchor="middle" font-size="10" fill="#222">28</text>
+<text x="228.9375" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 228.9375 472)">adskii_bot_all_tasks</text>
+<rect x="256.5" y="391.28834355828224" width="43.125" height="28.71165644171779" fill="#F58518" rx="3"/>
+<text x="278.0625" y="387.28834355828224" text-anchor="middle" font-size="10" fill="#222">13</text>
+<text x="278.0625" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 278.0625 472)">SFU</text>
+<rect x="305.625" y="391.28834355828224" width="43.125" height="28.71165644171779" fill="#F58518" rx="3"/>
+<text x="327.1875" y="387.28834355828224" text-anchor="middle" font-size="10" fill="#222">13</text>
+<text x="327.1875" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 327.1875 472)">common</text>
+<rect x="354.75" y="397.9141104294479" width="43.125" height="22.085889570552148" fill="#F58518" rx="3"/>
+<text x="376.3125" y="393.9141104294479" text-anchor="middle" font-size="10" fill="#222">10</text>
+<text x="376.3125" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 376.3125 472)">brrrr2832503195017</text>
+<rect x="403.875" y="411.16564417177915" width="43.125" height="8.83435582822086" fill="#F58518" rx="3"/>
+<text x="425.4375" y="407.16564417177915" text-anchor="middle" font-size="10" fill="#222">4</text>
+<text x="425.4375" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 425.4375 472)">23_2026-09-25</text>
+<rect x="453.0" y="411.16564417177915" width="43.125" height="8.83435582822086" fill="#F58518" rx="3"/>
+<text x="474.5625" y="407.16564417177915" text-anchor="middle" font-size="10" fill="#222">4</text>
+<text x="474.5625" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 474.5625 472)">gas⛽</text>
+<rect x="502.125" y="413.37423312883436" width="43.125" height="6.625766871165645" fill="#F58518" rx="3"/>
+<text x="523.6875" y="409.37423312883436" text-anchor="middle" font-size="10" fill="#222">3</text>
+<text x="523.6875" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 523.6875 472)">8</text>
+<rect x="551.25" y="417.7914110429448" width="43.125" height="2.208588957055215" fill="#F58518" rx="3"/>
+<text x="572.8125" y="413.7914110429448" text-anchor="middle" font-size="10" fill="#222">1</text>
+<text x="572.8125" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 572.8125 472)">16.py</text>
+<rect x="600.375" y="417.7914110429448" width="43.125" height="2.208588957055215" fill="#F58518" rx="3"/>
+<text x="621.9375" y="413.7914110429448" text-anchor="middle" font-size="10" fill="#222">1</text>
+<text x="621.9375" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 621.9375 472)">17.py</text>
+<rect x="649.5" y="417.7914110429448" width="43.125" height="2.208588957055215" fill="#F58518" rx="3"/>
+<text x="671.0625" y="413.7914110429448" text-anchor="middle" font-size="10" fill="#222">1</text>
+<text x="671.0625" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 671.0625 472)">17.txt</text>
+<rect x="698.625" y="417.7914110429448" width="43.125" height="2.208588957055215" fill="#F58518" rx="3"/>
+<text x="720.1875" y="413.7914110429448" text-anchor="middle" font-size="10" fill="#222">1</text>
+<text x="720.1875" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 720.1875 472)">23.py</text>
+<rect x="747.75" y="417.7914110429448" width="43.125" height="2.208588957055215" fill="#F58518" rx="3"/>
+<text x="769.3125" y="413.7914110429448" text-anchor="middle" font-size="10" fill="#222">1</text>
+<text x="769.3125" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 769.3125 472)">.gitignore</text>
+<rect x="796.875" y="417.7914110429448" width="43.125" height="2.208588957055215" fill="#F58518" rx="3"/>
+<text x="818.4375" y="413.7914110429448" text-anchor="middle" font-size="10" fill="#222">1</text>
+<text x="818.4375" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 818.4375 472)">9-9</text>
+</svg>

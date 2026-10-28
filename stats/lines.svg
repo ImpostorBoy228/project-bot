@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="white"/>
+<text x="450.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#222">Строки кода по языкам</text>
+<line x1="60" y1="420.0" x2="840" y2="420.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="424.0" text-anchor="end" font-size="11" fill="#555">0</text>
+<line x1="60" y1="348.0" x2="840" y2="348.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="352.0" text-anchor="end" font-size="11" fill="#555">274</text>
+<line x1="60" y1="276.0" x2="840" y2="276.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="280.0" text-anchor="end" font-size="11" fill="#555">548</text>
+<line x1="60" y1="204.0" x2="840" y2="204.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="208.0" text-anchor="end" font-size="11" fill="#555">822</text>
+<line x1="60" y1="132.0" x2="840" y2="132.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="136.0" text-anchor="end" font-size="11" fill="#555">1096</text>
+<line x1="60" y1="60.0" x2="840" y2="60.0" stroke="#eee" stroke-width="1"/>
+<text x="52" y="64.0" text-anchor="end" font-size="11" fill="#555">1370</text>
+<rect x="60.0" y="60.0" width="125.0" height="360.0" fill="#72B7B2" rx="3"/>
+<text x="122.5" y="56.0" text-anchor="middle" font-size="10" fill="#222">1370</text>
+<text x="122.5" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 122.5 472)">py</text>
+<rect x="191.0" y="388.2043795620438" width="125.0" height="31.795620437956202" fill="#72B7B2" rx="3"/>
+<text x="253.5" y="384.2043795620438" text-anchor="middle" font-size="10" fill="#222">121</text>
+<text x="253.5" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 253.5 472)">c</text>
+<rect x="322.0" y="413.95620437956205" width="125.0" height="6.043795620437956" fill="#72B7B2" rx="3"/>
+<text x="384.5" y="409.95620437956205" text-anchor="middle" font-size="10" fill="#222">23</text>
+<text x="384.5" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 384.5 472)">h</text>
+<rect x="453.0" y="388.2043795620438" width="125.0" height="31.795620437956202" fill="#72B7B2" rx="3"/>
+<text x="515.5" y="384.2043795620438" text-anchor="middle" font-size="10" fill="#222">121</text>
+<text x="515.5" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 515.5 472)">rs</text>
+<rect x="584.0" y="415.2700729927007" width="125.0" height="4.7299270072992705" fill="#72B7B2" rx="3"/>
+<text x="646.5" y="411.2700729927007" text-anchor="middle" font-size="10" fill="#222">18</text>
+<text x="646.5" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 646.5 472)">cpp</text>
+<rect x="715.0" y="411.59124087591243" width="125.0" height="8.40875912408759" fill="#72B7B2" rx="3"/>
+<text x="777.5" y="407.59124087591243" text-anchor="middle" font-size="10" fill="#222">32</text>
+<text x="777.5" y="472" text-anchor="end" font-size="10" fill="#444" transform="rotate(-45 777.5 472)">s</text>
+</svg>
