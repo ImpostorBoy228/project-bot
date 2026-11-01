@@ -30,4 +30,5 @@ for _ in range(4):
     fd(5*m)
     rt(90)
 
+update()
 done()

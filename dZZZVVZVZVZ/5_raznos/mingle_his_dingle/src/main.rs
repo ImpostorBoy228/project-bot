@@ -14,7 +14,7 @@ fn f(n: i32) -> i32 {
 }
 
 fn main() {
-    for y in 0..129478 {
+    for y in 1000..10000 {
         if f(y) == 1318 {
             println!("{}", y);
         }

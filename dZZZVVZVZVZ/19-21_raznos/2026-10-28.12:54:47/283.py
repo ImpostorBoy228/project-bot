@@ -24,8 +24,8 @@ for s in range(1,232352):
             if not m:
                 o=False
         wp2.append(o)
-    #if not any(wp) and any(wp2):
-    #    print(s)
+    if not any(wp) and all(wp2) and not any(wv):
+        print(s)
 # 21
 
 # p     не выигрывает
