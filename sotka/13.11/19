@@ -1,0 +1,13 @@
+>>> 
+impostorboy 13.11 💀 py
+Python 3.14.10 (main, Nov  4 2026, 18:21:50) [GCC 16.2.1 20260810] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> def g(s1, s2, x):
+...     if s1+s2>=167 or x>3:
+...         return x==2
+...     f=[g(s1+5,s2,x), g(s1,s2+5,x), g(s1*3,s2,x), g(s1,s2*3,x)]
+...     if x%2==0:
+...         return any(f)
+...     return any(f)
+...     
+>>> for s1 

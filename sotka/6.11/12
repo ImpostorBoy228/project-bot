@@ -1,0 +1,12 @@
+impostorboy 6.11 💀 py
+Python 3.14.9 (main, Oct 25 2026, 14:52:47) [GCC 16.2.1 20260810] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> "1"+bin(2025)[2:]
+'111111101001'
+>>> int("111111101001",2)
+4073
+>>> int("11111101001",2)
+2025
+>>> int("111111101001",2)
+4073
+>>> 
